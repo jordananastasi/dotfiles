@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Jordan Anastasi anastasi.jordan@gmail.com
+	email = anastasi.jordan@gmail.com
+	name = Jordan Anastasi
